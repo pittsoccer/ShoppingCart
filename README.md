@@ -1,2 +1,2 @@
 # ShoppingCart
-CIS-476 | JSP Shopping Cart
+CIS-476 | JSP Shopping Cart Project
